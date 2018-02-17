@@ -2,7 +2,7 @@
 This python program will help you choose apt Project to apply for in Rails Girls Summer of Code. 
 1) You'll be asked to enter your skill.
 2) Program will fetch data from RGSOC projects page, and filter projects that match your skills.
-3) If there are more than one projects, it will proceed according to no. applicants who have considered project as first choice/second choice. 
+3) If there are more than one projects, it will proceed according to no. applicants who have considered project as first choice/second choice.(Currently I've used applicant's 1st choice(draft), but more can be added similarily) 
 4) the idea is to select project that matches your skill as well as has lowest competition. Atlast, suitable project would be displayed on screen.
 
 ### NOTE:
@@ -17,7 +17,7 @@ Requirements
 Brief
 -----
 
-I have used url https://teams.railsgirlssummerofcode.org/projects?filter=2018. 
+I have used url  https://teams.railsgirlssummerofcode.org/projects?filter=2018. 
 In this project, I have first accessed the html data, parsed the content, and then manipulated it according to my requirements to achieve the desired outcome.
 
 Skills
