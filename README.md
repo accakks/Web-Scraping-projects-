@@ -14,12 +14,14 @@ Requirements
 2. Beautiful Soup
 3. Requests
 
-### Breif
+Brief
+-----
 
 I have used url https://teams.railsgirlssummerofcode.org/projects?filter=2018. 
 In this project, I have first accessed the html data, parsed the content, and then manipulated it according to my requirements to achieve the desired outcome.
 
-### Skills
+Skills
+------
 1. Web scraping (Beautiful Soup)
 2. Python 3
 3. HTML
